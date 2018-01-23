@@ -3,13 +3,16 @@
 
 ## Java Modules
 
-## JPMS - Java Platform Module System
+## JPMS (Java Platform Module System)
+     allowing the user to create their modules to develop their applications
+     _TODO_
 
 ## JLINK
-__TODO__
+   allowing the user to create executable to their applications
+   _TODO_
 
 ## JDEPS 
-__TODO__
+_TODO_
 
 
 ## Optional class
