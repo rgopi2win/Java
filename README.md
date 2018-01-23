@@ -2,6 +2,7 @@
 # Java 9
 
 ## Java Modules
+Java modules are builing blocks of [*microservices*](TODO)
 
 ## JPMS (Java Platform Module System)
 
