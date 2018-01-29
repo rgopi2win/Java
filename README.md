@@ -14,6 +14,10 @@ _TODO_
 
 allowing the user to create executable to their applications.
 
+```
+jlink [options] --module-path modulepath --add-modules module [,module...]
+```
+
 _TODO_
 
 ## JDEPS
