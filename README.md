@@ -32,7 +32,7 @@ _TODO_
   
   *_How to Use_*
   
-  -Type_ in command prompt, JShell window opens for you.
+  _Type_ in command prompt, JShell window opens for you.
   
   
 ## Optional class
