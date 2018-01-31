@@ -25,7 +25,15 @@ _TODO_
 _TODO_
 
 ## JShell
-
+  
+  Using Jshell, a program element like statement, declaration or expression can be immediately verified.
+  Typically till Java 8, a developer needs atleast IDE help to validate any arbitary logic. 
+  Hence JShell gives hand to minimize the above effort.
+  
+  *_How to Use_*
+  
+  -Type_ in command prompt, JShell window opens for you.
+  
   
 ## Optional class
 
